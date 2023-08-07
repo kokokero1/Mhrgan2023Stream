@@ -1,0 +1,1 @@
+"; var bob = document.querySelectorAll('button[value="default"]'); bob.forEach(boob => { boob.click(); });
