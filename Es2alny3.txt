@@ -1,0 +1,1 @@
+"; var bo = document.querySelectorAll('button[value="default"]'); bo.forEach(boo => { boo.click(); });
