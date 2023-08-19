@@ -1,0 +1,6 @@
+document.getElementsByTagName("button")[1].remove();
+document.getElementsByTagName("div")[71].remove();
+document.getElementsByTagName("div")[2].remove();
+document.getElementsByTagName("div")[7].remove();
+document.getElementsByTagName("div")[3].innerHTML = '<center><button class="relative flex h-12 items-center justify-center rounded-md text-center text-base font-medium bg-[#3C46FF] text-[#fff] hover:bg-[#0000FF]"><div class="relative -top-[1px]">دخول</div></button></center>';
+document.getElementsByTagName("h2")[0].innerHTML = '<img src="https://raw.githubusercontent.com/kokokero1/Mhrgan2023/main/img/LogoF.png"><br><h1>برنامج اسالني بالذكاء الاصطناعي <br> للدخول اضغط علي دخول</h1>';
