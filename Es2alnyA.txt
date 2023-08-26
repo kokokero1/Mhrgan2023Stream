@@ -1,2 +1,7 @@
-document.getElementsByTagName("div")[4].innerHTML = ""; document.getElementsByTagName("div")[11].innerHTML = ""; document.getElementsByTagName("h1")[0].innerHTML = "<center>اسالني هنا و هرد عليك"+'</h1><br><h1>'+'<img src="https://raw.githubusercontent.com/kokokero1/Mhrgan2023/main/img/LogoF.png" width="100" height="100"></center>'; document.getElementsByTagName("div")[21].innerHTML = "";
-var svgElementskt = document.querySelectorAll('div[class="pb-3 pt-2 text-center text-xs text-gray-600 dark:text-gray-300 md:px-[60px] md:pb-6 md:pt-3"]'); svgElementskt.forEach(svgElementkt => { var imgElementkt = document.createElement('div'); imgElementkt.id = `koko`; svgElementkt.parentNode.replaceChild(imgElementkt, svgElementkt);} ); document.getElementsByTagName("textarea")[0].placeholder="اكتب سؤالك هنا" ; document.getElementsByTagName("div")[22].innerHTML = "";
+document.getElementsByTagName("div")[6].innerHTML = "";
+document.getElementsByTagName("div")[13].innerHTML = "";
+document.getElementsByTagName("h1")[0].innerHTML = "<center>اسالني هنا و هرد عليك"+'</h1><br><h1>'+'<img src="https://raw.githubusercontent.com/kokokero1/Mhrgan2023/main/img/LogoF.png" width="100" height="100"></center>';
+document.getElementsByTagName("div")[21].innerHTML = "";
+var svgElementskt = document.querySelectorAll('div[class="pb-3 pt-2 text-center text-xs text-gray-600 dark:text-gray-300 md:px-[60px] md:pb-6 md:pt-3"]'); svgElementskt.forEach(svgElementkt => { var imgElementkt = document.createElement('div'); imgElementkt.id = `koko`; svgElementkt.parentNode.replaceChild(imgElementkt, svgElementkt);} );
+document.getElementsByTagName("textarea")[0].placeholder="اكتب سؤالك هنا" ;
+document.getElementsByTagName("div")[22].innerHTML = "";
