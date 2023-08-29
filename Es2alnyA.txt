@@ -1,0 +1,7 @@
+document.getElementsByTagName("div")[43].innerHTML = "";
+document.getElementsByTagName("div")[12].innerHTML = "";
+document.getElementsByTagName("h1")[1].innerHTML = "<center>اسالني هنا و هرد عليك"+'</h1><br><h1>'+'<img src="https://raw.githubusercontent.com/kokokero1/Mhrgan2023/main/img/LogoF.png" width="100" height="100"></center>';
+var svgElementskt = document.querySelectorAll('div[class="pb-3 pt-2 text-center text-xs text-gray-600 dark:text-gray-300 md:px-[60px] md:pb-6 md:pt-3"]'); svgElementskt.forEach(svgElementkt => { var imgElementkt = document.createElement('div'); imgElementkt.id = `koko`; svgElementkt.parentNode.replaceChild(imgElementkt, svgElementkt);} );
+document.getElementsByTagName("textarea")[0].placeholder="اكتب سؤالك هنا" ;
+document.getElementsByTagName("div")[22].innerHTML = "";
+var svgElementskl = document.querySelectorAll('div[class="sticky top-0 z-10 flex items-center border-b border-white/20 bg-gray-800 pl-1 pt-1 text-gray-200 sm:pl-3 md:hidden"]'); svgElementskl.forEach(svgElementkl => { var imgElementkl = document.createElement('div'); imgElementkl.id = `koko`; svgElementkl.parentNode.replaceChild(imgElementkl, svgElementkl);} );
