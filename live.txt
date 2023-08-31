@@ -1,1 +1,1 @@
-http://either-jennifer.gl.at.ply.gg:11834/live.m3u8
+http://192.168.43.63:8080/live.m3u8
